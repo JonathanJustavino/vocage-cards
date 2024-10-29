@@ -1,2 +1,3 @@
 # vocage-cards
-Cards for Vocabulary Trainer Vocage
+
+Repository storing the words for Vocabulary Trainer [Vocage](https://github.com/proycon/vocage)
